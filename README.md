@@ -21,20 +21,22 @@ Regarding my music - all compositions and recordings are 100% human-made. There 
 ---
 
 ## Secret Friend (Music Project)
-When I'm not coding, I'm composing and producing music under the monikers **Secret Friend** and **Rubber Seoul**.
+When I'm not coding, I'm composing and producing music under the monikers **Secret Friend** and **Rubber Seoul**. All music is 100% human created, no AI.
 
 ### Featured Videos
 Check out some of my work on [YouTube](https://youtube.com/SecretFriend):
-* **[Rantepao](https://youtu.be/ojDM5SHVXZs)** – 100% human music; my latest single and travel video
+* **[Rantepao](https://youtu.be/ojDM5SHVXZs)** – my latest single and travel video
 * **[And There You Are](https://youtu.be/Ws1y8bvoW20)** – 100% human music featuring an AI-generated _magic canvas_
-* **[allthecolors](https://youtu.be/PkaUUV9bgUU)** – 100% human music; song and video released freely under a Creative Commons license
+* **[allthecolors](https://youtu.be/PkaUUV9bgUU)** – song and video released freely under a Creative Commons license
+* **[Egypt](https://youtu.be/IAbTsG96QWU)** – musical travel vlog
+* **[Evicted](https://youtu.be/7-RghgQ9Pqc)** – musical URBEX video
 
 ### Listen to Secret Friend Anywhere
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/589121712) [![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/us/artist/secret-friend/589121712) [![Bandcamp](https://img.shields.io/badge/Bandcamp-1EA1F3?style=for-the-badge&logo=bandcamp&logoColor=white)](https://secret-friend.bandcamp.com/) [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCcGO-ww_ODksw8ciGSt5HJg) [![Tidal](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=tidal&logoColor=00FFFF)](https://tidal.com/artist/6848230) [![Amazon Music](https://img.shields.io/badge/Amazon_Music-00A8E1?style=for-the-badge&logo=amazon-music&logoColor=white)](https://www.amazon.com/music/player/artists/B00AQTH38C/secret-friend)
 
 ---
 
-### Connect with me:
-*(I don't do social media)*
+### Connect with me
+*(I don't use social media)*
 - **Website:** [secretfriendmusic.com](https://secretfriendmusic.com/)
 - **GitHub:** [@sfox38](https://github.com/sfox38)
