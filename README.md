@@ -6,16 +6,16 @@ A hobbyist developer and musician suspiciously loitering at the intersection of 
 
 | Project | Description |
 | :--- | :--- |
-| **[Whodunnit](https://github.com/sfox38/whodunnit)** | A Home Assistant sensor that tracks the "who" and "how" behind state changes, linking events to their human or automated source. |
-| **[TimeOff](https://github.com/sfox38/time_off)** | An auto-off timer for Home Assistant devices. |
-| **[TikTok TTS](https://github.com/sfox38/tiktoktts)** | Home Assistant TikTok TTS integration with 100+ voices, proxy/direct API modes, UI config, and a custom dashboard. |
-| **[Sum-Kinda-Magic](https://github.com/sfox38/Sum-Kinda-Magic)** | A mentalism web app built for close-up and stage performances. |
+| **[Whodunnit](https://github.com/sfox38/whodunnit)** | A Home Assistant sensor that tracks the "who" and "how" behind state changes, linking events to their human or automated source |
+| **[TimeOff](https://github.com/sfox38/time_off)** | An auto-off timer for Home Assistant devices |
+| **[TikTok TTS](https://github.com/sfox38/tiktoktts)** | Home Assistant TikTok TTS integration with 100+ voices, proxy/direct API modes, UI config, and a custom dashboard |
+| **[Sum-Kinda-Magic](https://github.com/sfox38/Sum-Kinda-Magic)** | A mentalism web app built for close-up and stage performances |
 
 ---
 
 ## Vibe Coding and AI Policy
 
-Yes, I vibe code. I started writing software professionally over 40 years ago, and I approach AI-assisted coding the same way I would if I were doing it all by hand. It lets me move fast on things that would otherwise take weeks of platform-specific deep-diving. The code is concise and intentional, and I debug manually whenever I need to.
+Yes, I vibe code. I started writing software professionally over 40 years ago and made a career out coding. I approach AI-assisted coding the same way I would if I were doing it all myself. It lets me move fast on things that would otherwise take weeks of platform-specific deep-diving. The code I release is concise and intentional, and I test and debug manually whenever I need to.
 
 Music is a different story. Everything I release is 100% human; no AI in the writing or production. I'm not opposed to the technology in general, I just don't use it for music right now. Some of my videos are a different story.
 
