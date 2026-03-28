@@ -16,7 +16,7 @@ A hobbyist developer and musician suspiciously loitering at the intersection of 
 
 ## Vibe Coding and AI Policy
 
-Yes, I vibe code. I started writing software professionally over 40 years ago and made a career out coding. I approach AI-assisted coding the same way I would if I were doing it all myself. It lets me move fast on things that would otherwise take weeks of platform-specific deep-diving. The code I release is concise and intentional, and I test and debug manually whenever I need to.
+Yes, I vibe code. I started writing software professionally over 40 years ago and made a career from coding. I approach AI-assisted coding the same way I would if I were doing it all myself. It lets me move fast on things that would otherwise take weeks of platform-specific deep-diving. The code I release is concise and intentional, and I thoroughly test and debug manually whenever I need to.
 
 Music is a different story. Everything I release is 100% human; no AI in the writing or production. I'm not opposed to the technology in general, I just don't use it for music right now. Some of my videos are a different story.
 
