@@ -7,8 +7,9 @@ A hobbyist developer and musician suspiciously loitering at the intersection of 
 | Project | Description |
 | :--- | :--- |
 | **[Whodunnit](https://github.com/sfox38/whodunnit)** | A Home Assistant sensor that tracks the "who" and "how" behind state changes, linking events to their human or automated source |
-| **[TimeOff](https://github.com/sfox38/time_off)** | An auto-off timer for Home Assistant devices |
+| **[TimeOff](https://github.com/sfox38/time_off)** | An auto-off timer integration for Home Assistant devices |
 | **[TikTok TTS](https://github.com/sfox38/tiktoktts)** | Home Assistant TikTok TTS integration with 100+ voices, proxy/direct API modes, UI config, and a custom dashboard |
+| **[Cartesia Sonic TTS](https://github.com/sfox38/cartesia_tts)** | Home Assistant Cartesia Sonic TTS integration, with over 660 voices and 42 languages |
 | **[Sum-Kinda-Magic](https://github.com/sfox38/Sum-Kinda-Magic)** | A mentalism web app built for close-up and stage performances |
 
 ---
