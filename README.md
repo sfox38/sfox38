@@ -47,6 +47,6 @@ Check out some of my work on [YouTube](https://youtube.com/SecretFriend):
 
 ### Connect with me
 
-*(I don't use social media)*
+*(I don't do social media)*
 - **Website:** [secretfriendmusic.com](https://secretfriendmusic.com/)
 - **GitHub:** [@sfox38](https://github.com/sfox38)
