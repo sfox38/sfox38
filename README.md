@@ -10,7 +10,7 @@ A hobbyist developer and musician suspiciously loitering at the intersection of 
 | **[TimeOff](https://github.com/sfox38/time_off)** | An auto-off timer integration for Home Assistant devices |
 | **[TikTok TTS](https://github.com/sfox38/tiktoktts)** | A Home Assistant TikTok TTS integration with 100+ voices, proxy/direct API modes, UI config, and a custom dashboard |
 | **[Cartesia Sonic TTS](https://github.com/sfox38/cartesia_tts)** | A Home Assistant Cartesia Sonic TTS integration, with over 660 voices and 42 languages |
-| **[Line Bot](https://github.com/sfox38/line_ha_bot)** | A Home Assistant custom integration for sending rich messages to LINE users and groups, and to trigger automations from incoming LINE messages  |
+| **[LINE Bot](https://github.com/sfox38/line_ha_bot)** | A Home Assistant custom integration for sending rich messages to LINE users and groups, and to trigger automations from incoming LINE messages  |
 | **[Sum-Kinda-Magic](https://github.com/sfox38/Sum-Kinda-Magic)** | A mentalism web app built for close-up and stage performances |
 
 
